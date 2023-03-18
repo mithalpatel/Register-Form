@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(https://www.athletadesk.com/wp-content/uploads/2016/08/join-background.jpg);
+     background-repeat: no-repeat;
+     background-size: 120%;
+     background-position: center;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+div.main{
+    width: 400px;
+    margin: 100px auto ;
+    text-align: start;
+}
+div.register{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    font-size: 20px;
+    color: white;
+}
+div.name{
+    margin-left: 30px;
+    font-size: 20px;
+}
+div.name input{
+    width: 300px;
+    height: 20px;
+    box-shadow: 1px 1px 5px black;
+
+}
+
+p{
+    margin-left: 30px;
+}
+div.button{
+   height: 45px;
+   width: 100px;
+   
+}
+div.button input{
+    position:relative;
+    height: 80%;
+    width:100%;
+    background-color: ghostwhite;
+    left: 150px;
+    bottom:10px;
+    border-radius: 5px;   
+    border: none;
+    box-shadow: 1px 1px 5px black;
+}
+
+
